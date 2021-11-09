@@ -10,4 +10,7 @@ public class SfgClinicApplication {
 		SpringApplication.run(SfgClinicApplication.class, args);
 	}
 
+
+
+
 }
