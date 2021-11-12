@@ -1,4 +1,7 @@
 package com.sfg.clinic.sfgclinic.model;
 
-public class OutPatient extends Person{
+import javax.persistence.Entity;
+
+@Entity
+public class OutPatient extends Person {
 }
